@@ -48,7 +48,7 @@ I actively contribute to open-source projects and create tools that enhance deve
 
 ### 🌐 Connect with Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/amitesh-sinha-5538131/]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/amitesh-sinha-5538131/)
+- **LinkedIn**: [https://www.linkedin.com/in/amitesh-sinha-5538131/](https://www.linkedin.com/in/amitesh-sinha-5538131/)
 
 ---
 
