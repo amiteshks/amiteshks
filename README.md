@@ -56,5 +56,5 @@ I actively contribute to open-source projects and create tools that enhance deve
 ### ✨ Fun Facts
 
 - 🎯 I’ve lived and worked in **4 continents**: Asia (India), Australia (Australia), Europe (UK) and North America (USA) 
-- 🌍 I’ve led engineering teams across **6 countries**, including the USA, India, Czech Republic, Canada, Ireland and Mexico.
+- 🌍 I’ve led engineering teams across **7 countries**, including the USA, India, Czech Republic, Canada, Ireland, UK and Mexico.
 - 🚀 My favorite part of being an engineer? **Solving problems that make an impact**.
