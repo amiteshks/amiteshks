@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Amitesh Sinha!
+# Amitesh Sinha
 
 ### 🚀 Engineering Leader | ML/AI Enthusiast | SaaS Innovator
 
