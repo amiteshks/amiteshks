@@ -37,7 +37,7 @@ I actively contribute to open-source projects and create tools that enhance deve
 - Published papers in **American and International Conferences** on topics like performance, architecture, and security.
 
 ---
-
+<!-- Comment out for now -->
 ### ✍️ Latest Articles and Tutorials
 
 - [AI & Machine Learning Tutorials: Step-by-Step Learning](https://github.com/your-repo-link)
@@ -45,6 +45,7 @@ I actively contribute to open-source projects and create tools that enhance deve
 - More coming soon...
 
 ---
+<!-- This is a hidden section -->
 
 ### 🌐 Connect with Me
 
