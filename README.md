@@ -10,7 +10,7 @@ I'm an accomplished engineering leader with over two decades of experience desig
 
 - 🔭 **Current Role**: Head of Engineering at Paylocity (as of January 2025), where I lead a large team of **talented professionals**, including engineers, data scientists, and architects.
 - 🧠 **Passion**: Building intelligent systems that combine **AI/ML** with innovative engineering to solve complex problems.
-- 📚 **Educator**: I enjoy teaching AI & ML concepts and bridging the gap between academia and industry through hands-on learning.
+- 📚 **Educator**: I enjoy teaching Programming, AI & ML concepts and bridging the gap between academia and industry through hands-on learning.
 
 ---
 
