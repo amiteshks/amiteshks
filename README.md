@@ -39,9 +39,9 @@ I actively contribute to open-source projects and create tools that enhance deve
 ---
 
 ### ✍️ Latest Articles and Tutorials
-
+#### Regression
 - [Ridge Regression and Grid Search Cross Validation](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Ridge-regression-with-grid-search-cross-validation/Ridge%20Regression%20and%20Grid%20Search%20Cross%20Validation.ipynb)
-- [Linear Regression Model using Sequential Feature Selection, 3rd Degree Polynomial Features and Scikit Pipeline]([https://github.com/your-repo-link](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Sequential-feature-selection/sequence-feature-selection.ipynb))
+- [Linear Regression Model using Sequential Feature Selection, 3rd Degree Polynomial Features and Scikit Pipeline](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Sequential-feature-selection/sequence-feature-selection.ipynb)
 - More coming soon...
 
 ---
