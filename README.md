@@ -37,15 +37,15 @@ I actively contribute to open-source projects and create tools that enhance deve
 - Published papers in **American and International Conferences** on topics like performance, architecture, and security.
 
 ---
-<!-- Comment out for now
+
 ### ✍️ Latest Articles and Tutorials
 
-- [AI & Machine Learning Tutorials: Step-by-Step Learning](https://github.com/your-repo-link)
-- [Computer Vision Tutorial using Google Colab & Hugging Face](https://github.com/your-repo-link)
+- [Ridge Regression and Grid Search Cross Validation](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Ridge-regression-with-grid-search-cross-validation/Ridge%20Regression%20and%20Grid%20Search%20Cross%20Validation.ipynb)
+- [Linear Regression Model using Sequential Feature Selection, 3rd Degree Polynomial Features and Scikit Pipeline]([https://github.com/your-repo-link](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Sequential-feature-selection/sequence-feature-selection.ipynb))
 - More coming soon...
 
 ---
--->
+
 
 ### 🌐 Connect with Me
 
