@@ -30,6 +30,7 @@ I'm an accomplished engineering leader with over two decades of experience desig
 
 #### Timeseries and Forecasting
 - [Date manipulations with Pandas](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/timeseries_and_forecasting/datetime_manipulation.ipynb)
+- [Time Series Decomposition Techniques for Analysis and Forecasting](http://localhost:8889/notebooks/MLAIBerkeleyEtc%2Fgithub_repo%2Fmachine-learning-and-artificial-intelligence%2Ftimeseries_and_forecasting%2FTime%20Series%20Decomposition%20-%20Nile%20Data%20Flow%20Forecasting.ipynb)
 
 #### Predicitve Analytics
 -  [User Behavior Analysis for a Marketing Campaign](https://github.com/amiteshks/Analyzing-User-Behavior-for-Coupon-Acceptance-Insights-and-Pattern)
