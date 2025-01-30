@@ -24,6 +24,9 @@ I'm an accomplished engineering leader with over two decades of experience desig
 
 ---
 ### ✍️ Latest Articles and Experiments
+#### Generative AI
+- [Generative AI Healthcare Assistant for Doctor Scheduling & Patient Inquiries](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/generative_ai/Generative%20AI%20Healthcare%20Assistant%20for%20Doctor%20Scheduling%20%26%20Patient%20Inquiries.ipynb)
+ 
 #### Regression
 - [Ridge Regression and Grid Search Cross Validation](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Ridge-regression-with-grid-search-cross-validation/Ridge%20Regression%20and%20Grid%20Search%20Cross%20Validation.ipynb)
 - [Linear Regression Model using Sequential Feature Selection, 3rd Degree Polynomial Features and Scikit Pipeline](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Sequential-feature-selection/sequence-feature-selection.ipynb)
