@@ -24,6 +24,10 @@ I'm an accomplished engineering leader with over two decades of experience desig
 
 ---
 ### ✍️ Latest Articles and Experiments
+
+#### Agentic AI
+- [Multi Agentic AI System using OpenAI and Tools](http://localhost:8888/notebooks/MLAIBerkeleyEtc%2F_qventus_prototype%2Fback-end%2Fagentic_AI_multi_agent_system_with_OpenAI.ipynb)
+  
 #### Generative AI
 - [Generative AI Healthcare Assistant for Doctor Scheduling & Patient Inquiries](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/generative_ai/Generative%20AI%20Healthcare%20Assistant%20for%20Doctor%20Scheduling%20%26%20Patient%20Inquiries.ipynb)
  
