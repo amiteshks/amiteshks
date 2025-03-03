@@ -68,7 +68,7 @@ I actively contribute to open-source projects and create tools that enhance deve
 
 - **MBA** and **MS in Computer Science**
 - Multiple **Patents** in the area of technology innovation
-- Published papers in **American and International Conferences** on topics like performance, architecture, and security.
+- Published papers in **American and International Conferences** on topics like AI/ML, performance, architecture, and security.
 
 ---
 
