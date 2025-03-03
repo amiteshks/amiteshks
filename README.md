@@ -36,7 +36,12 @@ I'm an accomplished engineering leader with over two decades of experience desig
 - [Decision Trees with various compbinations of Hyper parameters](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-2.ipynb)
 - [Decision Tree with Cost Complexity Pruning (ccp_alphas), Impurities, and Tree Depths](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-3.ipynb)
 
-#### Regression
+#### Logistic Regression
+- [Logistic Regression with Scikit Learn ](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-with-scikit_learn.ipynb )
+- [Logistic Regression - Experimenting with beta0 and beta1 ](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-experimenting-with-beta0-and-beta1.ipynb)  
+- [ Logistic Regression - End-to-End Classification Problem](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-end-to-end.ipynb)
+
+#### Linear Regression
 - [Ridge Regression and Grid Search Cross Validation](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Ridge-regression-with-grid-search-cross-validation/Ridge%20Regression%20and%20Grid%20Search%20Cross%20Validation.ipynb)
 - [Linear Regression Model using Sequential Feature Selection, 3rd Degree Polynomial Features and Scikit Pipeline](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Sequential-feature-selection/sequence-feature-selection.ipynb)
 
