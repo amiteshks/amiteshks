@@ -53,7 +53,11 @@ I'm an accomplished engineering leader with over two decades of experience desig
 -  [User Behavior Analysis for a Marketing Campaign](https://github.com/amiteshks/Analyzing-User-Behavior-for-Coupon-Acceptance-Insights-and-Pattern)
 -  [Predictive Model using Linear, Lasso, Ridge and Polynomial Models for automobile pricing](https://github.com/amiteshks/predictive_analytics_auto_pricing/blob/main/Predicting%20car%20model%20price%20using%20Linear%2C%20Ridge%2C%20Lasso%20and%20Polynomial%20Features.ipynb)
 
-
+#### Gradient Descent and Stochastic Gradient Descent
+1. [Gradient Descent and Linear Regression](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/gradient-descent-and-linear-regression.ipynb)
+2. [Gradient Descent with Two Features](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/gradient-descent-with-two-features.ipynb)
+3. [Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/stochastic-gradient-descent.ipynb)
+4. [Comparing Gradient Descent with Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/comparing-gradient-descent-with-stochastic-gradient-descent.ipynb)
 ---
 
 
