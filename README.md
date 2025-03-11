@@ -2,7 +2,7 @@
 
 ### 🚀 Engineering Leader | ML/AI Architect | SaaS Innovator
 
-I'm an AI Architect and accomplished engineering leader with over two decades of experience designing and scaling AI-driven applications and platforms. My expertise lies in architecting large-scale, low-latency, highly available, and mission-critical AI and SaaS solutions. I specialize in integrating Machine Learning (ML), Artificial Intelligence (AI), and advanced cloud architectures to build next-generation software products that drive intelligent automation, predictive insights, and business transformation.
+I'm an **AI Architect** and accomplished engineering leader with over two decades of experience designing and scaling AI-driven applications and platforms. My expertise lies in **architecting large-scale, low-latency, highly available, and mission-critical AI and SaaS solutions**. I specialize in **integrating Machine Learning (ML), Artificial Intelligence (AI), and advanced cloud architectures to build next-generation software products** that drive intelligent automation, predictive insights, and business transformation.
 
 ---
 
