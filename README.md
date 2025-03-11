@@ -1,8 +1,8 @@
 # Amitesh Sinha
 
-### 🚀 Engineering Leader | ML/AI Enthusiast | SaaS Innovator
+### 🚀 Engineering Leader | ML/AI Architect | SaaS Innovator
 
-I'm an accomplished engineering leader with over two decades of experience designing and scaling cutting-edge applications and platforms. My expertise lies in building large scale, low latency, highly available and mission critical Products and Platforms. I am passionate about building the next generation of software products using **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **SaaS solutions**, driving impactful business outcomes for customers.
+I'm an AI Architect and accomplished engineering leader with over two decades of experience designing and scaling AI-driven applications and platforms. My expertise lies in architecting large-scale, low-latency, highly available, and mission-critical AI and SaaS solutions. I specialize in integrating Machine Learning (ML), Artificial Intelligence (AI), and advanced cloud architectures to build next-generation software products that drive intelligent automation, predictive insights, and business transformation.
 
 ---
 
