@@ -58,7 +58,7 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 2. [Gradient Descent with Two Features](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/gradient-descent-with-two-features.ipynb)
 3. [Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/stochastic-gradient-descent.ipynb)
 4. [Comparing Gradient Descent with Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/comparing-gradient-descent-with-stochastic-gradient-descent.ipynb)
-5. 
+   
 
 #### Decision Trees, Support Vector Machine (SVM), K Nearest Neighbors and Logistic Regressions
 
