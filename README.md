@@ -58,8 +58,17 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 2. [Gradient Descent with Two Features](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/gradient-descent-with-two-features.ipynb)
 3. [Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/stochastic-gradient-descent.ipynb)
 4. [Comparing Gradient Descent with Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/comparing-gradient-descent-with-stochastic-gradient-descent.ipynb)
----
+5. 
 
+#### Decision Trees, Support Vector Machine (SVM), K Nearest Neighbors and Logistic Regressions
+
+1. [Compare Logistic Regression models boundaries using polynomial features of degrees 1, 2, and 5](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/polynomial-features-and-classification.ipynb)
+
+2. [Decision Boundaries for Different Classification Models](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/decision-boundaries-for-different-classification-models.ipynb)
+
+3. [Compare and Summarize Logistic Regression, Decision Tree Classifier, K-Nearest Neighbor Classifier, and SVM (Support Vector Machine) Classifier for Handwritten Digits Dataset](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-handwritten-digits.ipynb)
+
+4. [Compare and Summarize Logistic Regression, Decision Tree Classifier, K-Nearest Neighbor Classifier, and SVM (Support Vector Machine) Classifier for Customer Churn Data](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-customer-churn.ipynb)
 
 
 ### 🛠️ My Open Source Contributions
