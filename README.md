@@ -8,7 +8,7 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 
 ### 💡 About Me
 
-- 🔭 **Current Role**: Head of Engineering at Paylocity (as of January 2025), where I lead a large team of **talented professionals**, including engineers, data scientists, and architects.
+- 📚 **Current Role**: Head of Engineering at Paylocity (as of January 2025), where I lead a large team of **talented professionals**, including engineers, data scientists, and architects.
 - 🧠 **Passion**: Building intelligent systems that combine **AI/ML** with innovative engineering to solve complex problems.
 - 📚 **Educator**: I enjoy teaching Programming, AI & ML concepts and bridging the gap between academia and industry through hands-on learning.
 
@@ -59,16 +59,14 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 3. [Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/stochastic-gradient-descent.ipynb)
 4. [Comparing Gradient Descent with Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/comparing-gradient-descent-with-stochastic-gradient-descent.ipynb)
    
-
 #### Decision Trees, Support Vector Machine (SVM), K Nearest Neighbors and Logistic Regressions
-
 1. [Compare Logistic Regression models boundaries using polynomial features of degrees 1, 2, and 5](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/polynomial-features-and-classification.ipynb)
-
 2. [Decision Boundaries for Different Classification Models](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/decision-boundaries-for-different-classification-models.ipynb)
-
 3. [Compare and Summarize Logistic Regression, Decision Tree Classifier, K-Nearest Neighbor Classifier, and SVM (Support Vector Machine) Classifier for Handwritten Digits Dataset](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-handwritten-digits.ipynb)
-
 4. [Compare and Summarize Logistic Regression, Decision Tree Classifier, K-Nearest Neighbor Classifier, and SVM (Support Vector Machine) Classifier for Customer Churn Data](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-customer-churn.ipynb)
+
+#### Neural Network/ Deep Neural Network
+1. [Deep Neural Network for Sentiment Analysis Using Scikit-Learn](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/neural_network/sentiment_analysis_neural_network.ipynb)
 
 
 ### 🛠️ My Open Source Contributions
