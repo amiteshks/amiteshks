@@ -18,7 +18,7 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 
 - **Languages**: Java, Python, TypeScript, Node.js, React, Go.
 - **Cloud Platforms**: AWS (Bedrock, Textract, Comprehend, Lex), GCP, Azure.
-- **Frameworks**: TensorFlow, PyTorch, Hugging Face, Spring.
+- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face, LangChain, LangGraph, LLMs - Llama, BERT, OpenAI.
 - **DevOps**: Terraform, Kubernetes, Docker, CI/CD.
 - **Databases**: PostgreSQL, DynamoDB, MongoDB, ElasticSearch.
 
