@@ -68,6 +68,9 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 #### Neural Network/ Deep Neural Network
 1. [Deep Neural Network for Sentiment Analysis Using Scikit-Learn](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/neural_network/sentiment_analysis_neural_network.ipynb)
 
+#### Solution to Weekly Coding Challenge
+1. [Direct Link to Solutions Folder](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/tree/main/coding_challenge)
+
 
 ### 🛠️ My Open Source Contributions
 
