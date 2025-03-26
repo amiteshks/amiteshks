@@ -72,6 +72,13 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 1. [Direct Link to Solutions Folder](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/tree/main/coding_challenge)
 
 
+#### Use cases
+1. [User Behavior Analysis for a Marketing Campaign](https://github.com/amiteshks/Analyzing-User-Behavior-for-Coupon-Acceptance-Insights-and-Pattern)
+2. [Benchmarking Classification Algorithms: A Marketing Use Case](https://github.com/amiteshks/comparing_classifiers/blob/main/comparing-classifiers.ipynb)
+3. [Logistic Regression - End-to-End Classification Problem](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-end-to-end.ipynb)
+4. [Generative AI Healthcare Assistant for Doctor Scheduling & Patient Inquiries](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/generative_ai/Generative%20AI%20Healthcare%20Assistant%20for%20Doctor%20Scheduling%20%26%20Patient%20Inquiries.ipynb)
+
+
 ### 🛠️ My Open Source Contributions
 
 I actively contribute to open-source projects and create tools that enhance developer productivity and enable ML/AI solutions. Check out my pinned repositories below 👇
