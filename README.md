@@ -71,6 +71,7 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 #### Recommendation Systems
 1. [Recommendation System based on Item Factors](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_linear_regression.ipynb)
 2. [Recommendation System based on User Factors](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_user_factor.ipynb)
+3. [Recommender System with SURPRISE & Comparing Performance (RMSE) of Various Algorithms](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_systems_compare_multiple_algorithm.ipynb) 
 
 #### Solution to Weekly Coding Challenge
 1. [Direct Link to Solutions Folder](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/tree/main/coding_challenge)
