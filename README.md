@@ -31,6 +31,11 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 #### Generative AI
 - [Generative AI Healthcare Assistant for Doctor Scheduling & Patient Inquiries](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/generative_ai/Generative%20AI%20Healthcare%20Assistant%20for%20Doctor%20Scheduling%20%26%20Patient%20Inquiries.ipynb)
 
+
+#### Neural Network/ Deep Neural Network
+1. [Deep Neural Network for Sentiment Analysis Using Scikit-Learn](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/neural_network/sentiment_analysis_neural_network.ipynb)
+2. [Artifiical Neural Network Building Blocks- Bias, Weights, Activation Function](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/deep_learning/simple_artificial_neural_network.ipynb)
+
 #### Decision Tree Classifiers
 - [Decision Tree using sklearn module](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-1.ipynb)
 - [Decision Trees with various compbinations of Hyper parameters](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-2.ipynb)
@@ -64,9 +69,6 @@ I'm an **AI Architect** and accomplished engineering leader with over two decade
 2. [Decision Boundaries for Different Classification Models](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/decision-boundaries-for-different-classification-models.ipynb)
 3. [Compare and Summarize Logistic Regression, Decision Tree Classifier, K-Nearest Neighbor Classifier, and SVM (Support Vector Machine) Classifier for Handwritten Digits Dataset](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-handwritten-digits.ipynb)
 4. [Compare and Summarize Logistic Regression, Decision Tree Classifier, K-Nearest Neighbor Classifier, and SVM (Support Vector Machine) Classifier for Customer Churn Data](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-customer-churn.ipynb)
-
-#### Neural Network/ Deep Neural Network
-1. [Deep Neural Network for Sentiment Analysis Using Scikit-Learn](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/neural_network/sentiment_analysis_neural_network.ipynb)
 
 #### Recommendation Systems
 1. [Recommendation System based on Item Factors](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_linear_regression.ipynb)
