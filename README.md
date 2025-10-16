@@ -1,114 +1,154 @@
 # Amitesh Sinha
 
-### 🚀 Engineering Leader | ML/AI Architect | SaaS Innovator
+### 🚀 Engineering Leader | Generative AI Practitioner | SaaS Innovator
 
-I'm an **AI Architect** and accomplished engineering leader with over two decades of experience designing and scaling AI-driven applications and platforms. My expertise lies in **architecting large-scale, low-latency, highly available, and mission-critical AI and SaaS solutions**. I specialize in **integrating Machine Learning (ML), Artificial Intelligence (AI), and advanced cloud architectures to build next-generation software products** that drive intelligent automation, predictive insights, and business transformation.
+I’m a **hands-on AI engineering leader** passionate about building production-grade **Generative AI applications and platforms**.  
+My work spans developing **AI Copilots across HR Tech, Payroll Tech, FinTech, and Accounting Tech**, leveraging **LLMs (both local and third-party)**, **moderation APIs**, **fine-tuning pipelines**, and **vector-based retrieval with Milvus and FAISS**.  
+I specialize in **end-to-end orchestration** using **LangChain**, **LangGraph**, and **FastAPI**, with **evaluation and observability** powered by **RAGAS** and **LangSmith**.  
+With a strong foundation in **distributed systems**, **SaaS platform engineering**, and **cloud-native architecture (AWS, Docker, Kubernetes)**, I focus on transforming traditional enterprise workflows into **intelligent, context-aware, and data-driven experiences**.  
+I’m driven by bridging the gap between **AI research and real-world deployment**, enabling teams to build **trustworthy, scalable, and measurable GenAI solutions**.
+
 
 ---
 
 ### 💡 About Me
 
-- 🧠 **Passion**: Building intelligent systems that combine **AI/ML** with innovative engineering to solve complex problems.
-- 📚 **Educator**: I enjoy teaching Programming, AI & ML concepts and bridging the gap between academia and industry through hands-on learning.
+- 🧠 **Builder**: Design and implement **LLM-based systems**, including **RAG pipelines**, **fine-tuning workflows**, and **multi-agent applications**.  
+- 🔍 **Evaluator**: Develop frameworks for **model evaluation, observability, and accuracy benchmarking** using LangSmith and RAGAS.  
+- 👥 **Mentor & Educator**: Lead AI training programs focused on **Generative and Agentic AI**, helping professionals gain hands-on experience with LLMs and modern AI toolchains.  
+- ⚙️ **Technologist**: Combine deep system design experience with emerging AI frameworks to build scalable and intelligent products.
 
 ---
 
 ### 🔧 Technologies & Tools
 
-- **Languages**: Java, Python, TypeScript, Node.js, React, Go.
-- **Cloud Platforms**: AWS (Bedrock, Textract, Comprehend, Lex), GCP, Azure.
-- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face, LangChain, LangGraph, LLMs - Llama, BERT, OpenAI.
-- **DevOps**: Terraform, Kubernetes, Docker, CI/CD.
-- **Databases**: PostgreSQL, DynamoDB, MongoDB, ElasticSearch.
+- **Languages**: Python, Java, TypeScript, Node.js, React, Go  
+- **Generative AI Stack**: LangChain, LangGraph, LangSmith, OpenAI, Llama, Ollama  
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face  
+- **Cloud Platforms**: AWS (Bedrock, Textract, Comprehend, Lex), GCP, Azure  
+- **Databases**: PostgreSQL, DynamoDB, MongoDB, ElasticSearch, **Milvus (Vector DB)**  
+- **DevOps & Infra**: Terraform, Kubernetes, Docker, CI/CD Pipelines
 
 ---
-### ✍️ Latest Articles and Experiments
 
-#### Agentic AI
-- [Multi Agentic AI System using OpenAI and Agents](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/agentic_ai/agentic_AI_multi_agent_system_with_OpenAI.ipynb)
-  
-#### Generative AI
+
+## 🤖 Generative AI
+
+Hands-on projects and experiments in **LLMs, RAG architectures, fine-tuning, evaluation, and agentic orchestration**.  
+These examples highlight end-to-end implementations using frameworks like **LangChain**, **LangGraph**, **LangSmith**, and **Milvus**.
+
+---
+
+### 🧠 Working with Local LLMs
+- [Local LLMs](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_03/5_local_llm.ipynb)  
+- [Comparing 3rd-Party LLM vs Local LLM Performance](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_03/6_local_llm_vs_openai.ipynb)
+
+---
+
+### 🔍 Retrieval-Augmented Generation (RAG)
+- [RAG with Milvus DB – Setup](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_04/milvus_rag.ipynb)  
+- [RAG with Milvus DB – Search](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_04/milvus_rag_search.ipynb)
+
+---
+
+### 🧩 Evaluating Generative AI Applications
+- [Evaluation for Retrieval – Using RAGAS](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_06/eval_retrieval_with_ragas.ipynb)  
+- [Evaluation for Generation – Using RAGAS](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_06/eval_llmgeneration_with_ragas.ipynb)  
+- [Setup for Evaluation – Data & Chatbot Scripts](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_06/milvus_rag_data_setup.py) | [Chatbot Script](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_06/milvus_chatbot_with_rag.py)  
+- [Evaluation using LangSmith Eval](https://github.com/amiteshks/GenAI_RAG_Eval/blob/main/test_genai_langsmith.py)
+
+---
+
+### ⚙️ Fine-Tuning LLMs
+- [Fine-Tuning OpenAI Models](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_07_Fine_Tuning/fine_tuning.ipynb)
+
+---
+
+### 🧠 Agentic AI Systems
+- [Agentic AI with LangGraph – Sequential Nodes](https://github.com/amiteshks/generative_ai_projects/blob/main/agentic_ai/graph_sequential_nodes.ipynb)  
+- [Agentic AI with LangGraph – Parallel Nodes](https://github.com/amiteshks/generative_ai_projects/blob/main/agentic_ai/graph_parallel_nodes.ipynb)  
+- [Agentic AI with LangGraph – Stateful Agents](https://github.com/amiteshks/generative_ai_projects/blob/main/agentic_ai/graph_with_state.ipynb)  
+- [Agentic AI Library Application](https://github.com/amiteshks/generative_ai_projects/blob/main/agentic_ai/library_agentic_ai_application.ipynb)  
+- [Agentic AI Library App with LangSmith Observability](https://github.com/amiteshks/generative_ai_projects/blob/main/agentic_ai/library_agentic_ai_application_llm_langsmith.ipynb)  
+- [Legal AI Co-Pilot (Multi-Agent System)](https://github.com/amiteshks/ai_legal_copilot)
+
+---
+
+### 💼 Featured Generative AI Projects
+- [Agentic AI: Multi-Agent System using OpenAI and Agents](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/agentic_ai/agentic_AI_multi_agent_system_with_OpenAI.ipynb)  
 - [Generative AI Healthcare Assistant for Doctor Scheduling & Patient Inquiries](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/generative_ai/Generative%20AI%20Healthcare%20Assistant%20for%20Doctor%20Scheduling%20%26%20Patient%20Inquiries.ipynb)
 
+---
 
-#### Neural Network/ Deep Neural Network
-1. [Deep Neural Network for Sentiment Analysis Using Scikit-Learn](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/neural_network/sentiment_analysis_neural_network.ipynb)
-2. [Artifiical Neural Network Building Blocks- Bias, Weights, Activation Function](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/deep_learning/simple_artificial_neural_network.ipynb)
+## 📊 Classical / Predictive AI
 
-#### Decision Tree Classifiers
-- [Decision Tree using sklearn module](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-1.ipynb)
-- [Decision Trees with various compbinations of Hyper parameters](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-2.ipynb)
-- [Decision Tree with Cost Complexity Pruning (ccp_alphas), Impurities, and Tree Depths](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-3.ipynb)
+A comprehensive collection of **Machine Learning techniques** that form the foundation for predictive analytics — regression, classification, time series forecasting, and recommender systems.
 
-#### Logistic Regression
-- [Logistic Regression with Scikit Learn ](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-with-scikit_learn.ipynb )
-- [Logistic Regression - Experimenting with beta0 and beta1 ](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-experimenting-with-beta0-and-beta1.ipynb)  
-- [ Logistic Regression - End-to-End Classification Problem](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-end-to-end.ipynb)
+---
 
-#### Linear Regression
-- [Ridge Regression and Grid Search Cross Validation](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Ridge-regression-with-grid-search-cross-validation/Ridge%20Regression%20and%20Grid%20Search%20Cross%20Validation.ipynb)
-- [Linear Regression Model using Sequential Feature Selection, 3rd Degree Polynomial Features and Scikit Pipeline](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Sequential-feature-selection/sequence-feature-selection.ipynb)
+### 🧩 Core Topics
 
-#### Timeseries and Forecasting
-- [Date manipulations with Pandas](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/timeseries_and_forecasting/datetime_manipulation.ipynb)
-- [Time Series Decomposition Techniques for Analysis and Forecasting](http://localhost:8889/notebooks/MLAIBerkeleyEtc%2Fgithub_repo%2Fmachine-learning-and-artificial-intelligence%2Ftimeseries_and_forecasting%2FTime%20Series%20Decomposition%20-%20Nile%20Data%20Flow%20Forecasting.ipynb)
+#### Neural Networks
+- [Deep Neural Network for Sentiment Analysis](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/neural_network/sentiment_analysis_neural_network.ipynb)  
+- [ANN Building Blocks – Bias, Weights, Activation Functions](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/deep_learning/simple_artificial_neural_network.ipynb)
 
-#### Predicitve Analytics
--  [User Behavior Analysis for a Marketing Campaign](https://github.com/amiteshks/Analyzing-User-Behavior-for-Coupon-Acceptance-Insights-and-Pattern)
--  [Predictive Model using Linear, Lasso, Ridge and Polynomial Models for automobile pricing](https://github.com/amiteshks/predictive_analytics_auto_pricing/blob/main/Predicting%20car%20model%20price%20using%20Linear%2C%20Ridge%2C%20Lasso%20and%20Polynomial%20Features.ipynb)
+#### Decision Trees
+- [Decision Tree using Scikit-Learn](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-1.ipynb)  
+- [Decision Trees with Hyperparameter Variations](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-2.ipynb)  
+- [Decision Tree with Cost Complexity Pruning](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision-tree-classifiers/decision-tree-3.ipynb)
 
-#### Gradient Descent and Stochastic Gradient Descent
-1. [Gradient Descent and Linear Regression](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/gradient-descent-and-linear-regression.ipynb)
-2. [Gradient Descent with Two Features](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/gradient-descent-with-two-features.ipynb)
-3. [Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/stochastic-gradient-descent.ipynb)
-4. [Comparing Gradient Descent with Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/comparing-gradient-descent-with-stochastic-gradient-descent.ipynb)
-   
-#### Decision Trees, Support Vector Machine (SVM), K Nearest Neighbors and Logistic Regressions
-1. [Compare Logistic Regression models boundaries using polynomial features of degrees 1, 2, and 5](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/polynomial-features-and-classification.ipynb)
-2. [Decision Boundaries for Different Classification Models](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/decision-boundaries-for-different-classification-models.ipynb)
-3. [Compare and Summarize Logistic Regression, Decision Tree Classifier, K-Nearest Neighbor Classifier, and SVM (Support Vector Machine) Classifier for Handwritten Digits Dataset](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-handwritten-digits.ipynb)
-4. [Compare and Summarize Logistic Regression, Decision Tree Classifier, K-Nearest Neighbor Classifier, and SVM (Support Vector Machine) Classifier for Customer Churn Data](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-customer-churn.ipynb)
+#### Regression Models
+- [Ridge Regression with Grid Search CV](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Ridge-regression-with-grid-search-cross-validation/Ridge%20Regression%20and%20Grid%20Search%20Cross%20Validation.ipynb)  
+- [Linear Regression with Sequential Feature Selection & Polynomial Features](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/Regression/Sequential-feature-selection/sequence-feature-selection.ipynb)  
+- [Logistic Regression End-to-End Classification](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-end-to-end.ipynb)
+
+#### Optimization
+- [Gradient Descent and Linear Regression](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/gradient-descent-and-linear-regression.ipynb)  
+- [Stochastic Gradient Descent](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/stochastic-gradient-descent.ipynb)  
+- [Comparing GD vs SGD](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/gradient_descent/comparing-gradient-descent-with-stochastic-gradient-descent.ipynb)
+
+#### Classification Models
+- [Comparing Logistic Regression, SVM, KNN, Decision Trees (Customer Churn Dataset)](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/decision_trees_svm_knn_with_logistic_regression/classification-models-for-customer-churn.ipynb)
+
+#### Time Series & Forecasting
+- [Time Series Decomposition & Forecasting – Nile Flow Example](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/timeseries_and_forecasting/Time%20Series%20Decomposition%20-%20Nile%20Data%20Flow%20Forecasting.ipynb)  
+- [Date Manipulations with Pandas](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/timeseries_and_forecasting/datetime_manipulation.ipynb)
 
 #### Recommendation Systems
-1. [Recommendation System based on Item Factors](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_linear_regression.ipynb)
-2. [Recommendation System based on User Factors](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_user_factor.ipynb)
-3. [Recommender System with SURPRISE & Comparing Performance (RMSE) of Various Algorithms](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_systems_compare_multiple_algorithm.ipynb) 
+- [Item-Factor Recommendation System](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_linear_regression.ipynb)  
+- [User-Factor Recommendation System](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_user_factor.ipynb)  
+- [Comparing Algorithms using RMSE (Surprise Library)](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/recommendation_systems/recommendation_systems_compare_multiple_algorithm.ipynb)
 
-#### Solution to Weekly Coding Challenge
-1. [Direct Link to Solutions Folder](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/tree/main/coding_challenge)
-
-
-#### Use cases
-1. [User Behavior Analysis for a Marketing Campaign](https://github.com/amiteshks/Analyzing-User-Behavior-for-Coupon-Acceptance-Insights-and-Pattern)
-2. [Benchmarking Classification Algorithms: A Marketing Use Case](https://github.com/amiteshks/comparing_classifiers/blob/main/comparing-classifiers.ipynb)
-3. [Logistic Regression - End-to-End Classification Problem](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/logistic_regression/logistic-regression-end-to-end.ipynb)
-4. [Generative AI Healthcare Assistant for Doctor Scheduling & Patient Inquiries](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/generative_ai/Generative%20AI%20Healthcare%20Assistant%20for%20Doctor%20Scheduling%20%26%20Patient%20Inquiries.ipynb)
-
-
-### 🛠️ My Open Source Contributions
-
-I actively contribute to open-source projects and create tools that enhance developer productivity and enable ML/AI solutions. Check out my pinned repositories below 👇
+#### Predictive Analytics Use Cases
+- [User Behavior Analysis for Marketing Campaigns](https://github.com/amiteshks/Analyzing-User-Behavior-for-Coupon-Acceptance-Insights-and-Pattern)  
+- [Predictive Model for Automobile Pricing (Linear, Lasso, Ridge, Polynomial)](https://github.com/amiteshks/predictive_analytics_auto_pricing/blob/main/Predicting%20car%20model%20price%20using%20Linear%2C%20Ridge%2C%20Lasso%20and%20Polynomial%20Features.ipynb)
 
 ---
 
-### 🎓 Certifications & Education
-
-- **MBA** and **MS in Computer Science**
-- Multiple **Patents** in the area of technology innovation
-- Published papers in **American and International Conferences** on topics like AI/ML, performance, architecture, and security.
+### 💻 Coding Challenges
+- [Weekly Coding Challenge Solutions](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/tree/main/coding_challenge)
 
 ---
 
+### 🛠️ Open Source Contributions
+I actively contribute to open-source projects and build tools that enhance developer productivity and enable ML/AI innovation.  
+Check out my pinned repositories below 👇
 
+---
+
+### 🎓 Education & Certifications
+- **MBA** and **MS in Computer Science**  
+- **Multiple Patents** in AI-driven software innovation  
+- Published papers in **International Conferences** on AI, ML, architecture, and system performance  
+
+---
 
 ### 🌐 Connect with Me
-
-- **LinkedIn**: [https://www.linkedin.com/in/amitesh-sinha-5538131/](https://www.linkedin.com/in/amitesh-sinha-5538131/)
+- **LinkedIn**: [Amitesh Sinha](https://www.linkedin.com/in/amitesh-sinha-5538131/)
 
 ---
 
 ### ✨ Fun Facts
-
-- 🎯 I’ve lived and worked in **4 continents**: Asia (India), Australia (Australia), Europe (UK) and North America (USA) 
-- 🌍 I’ve led engineering teams across **7 countries**, including the USA, India, Czech Republic, Canada, Ireland, UK and Mexico.
-- 🚀 My favorite part of being an engineer? **Solving problems that make an impact**.
+- 🌎 Worked across **4 continents**, leading teams in **7 countries**  
+- 🧭 Passionate about **building, teaching, and scaling AI systems that make an impact**  
+- 🧩 Always exploring how **Agentic AI** can reshape enterprise workflows and decision-making  
