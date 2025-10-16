@@ -37,19 +37,18 @@ I’m driven by bridging the gap between **AI research and real-world deployment
 Hands-on projects and experiments in **LLMs, RAG architectures, fine-tuning, evaluation, and agentic orchestration**.  
 These examples highlight end-to-end implementations using frameworks like **LangChain**, **LangGraph**, **LangSmith**, and **Milvus**.
 
----
 
-### 🧠 Working with Local LLMs
-- [Local LLMs](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_03/5_local_llm.ipynb)  
-- [Comparing 3rd-Party LLM vs Local LLM Performance](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_03/6_local_llm_vs_openai.ipynb)
+### 🧠 Working with 3rd-Party and Local LLMs
+- [Integration with Chat Completions API](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_02/5_openai_integration.ipynb)  
+- [Integration with Moderation API](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_02/6_openai_modeartion_integration.ipynb)  
+- [Running Local LLMs](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_03/5_local_llm.ipynb)  
+- [Comparing 3rd-Party vs Local LLM Performance](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_03/6_local_llm_vs_openai.ipynb)
 
----
 
 ### 🔍 Retrieval-Augmented Generation (RAG)
 - [RAG with Milvus DB – Setup](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_04/milvus_rag.ipynb)  
 - [RAG with Milvus DB – Search](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_04/milvus_rag_search.ipynb)
 
----
 
 ### 🧩 Evaluating Generative AI Applications
 - [Evaluation for Retrieval – Using RAGAS](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_06/eval_retrieval_with_ragas.ipynb)  
@@ -57,12 +56,10 @@ These examples highlight end-to-end implementations using frameworks like **Lang
 - [Setup for Evaluation – Data & Chatbot Scripts](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_06/milvus_rag_data_setup.py) | [Chatbot Script](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_06/milvus_chatbot_with_rag.py)  
 - [Evaluation using LangSmith Eval](https://github.com/amiteshks/GenAI_RAG_Eval/blob/main/test_genai_langsmith.py)
 
----
 
 ### ⚙️ Fine-Tuning LLMs
 - [Fine-Tuning OpenAI Models](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_07_Fine_Tuning/fine_tuning.ipynb)
 
----
 
 ### 🧠 Agentic AI Systems
 - [Agentic AI with LangGraph – Sequential Nodes](https://github.com/amiteshks/generative_ai_projects/blob/main/agentic_ai/graph_sequential_nodes.ipynb)  
@@ -72,7 +69,6 @@ These examples highlight end-to-end implementations using frameworks like **Lang
 - [Agentic AI Library App with LangSmith Observability](https://github.com/amiteshks/generative_ai_projects/blob/main/agentic_ai/library_agentic_ai_application_llm_langsmith.ipynb)  
 - [Legal AI Co-Pilot (Multi-Agent System)](https://github.com/amiteshks/ai_legal_copilot)
 
----
 
 ### 💼 Featured Generative AI Projects
 - [Agentic AI: Multi-Agent System using OpenAI and Agents](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/agentic_ai/agentic_AI_multi_agent_system_with_OpenAI.ipynb)  
