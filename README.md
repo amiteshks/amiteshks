@@ -40,7 +40,10 @@ These examples highlight end-to-end implementations using frameworks like **Lang
 
 ### 🧠 Working with 3rd-Party and Local LLMs
 - [Integration with Chat Completions API](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_02/5_openai_integration.ipynb)  
-- [Integration with Moderation API](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_02/6_openai_modeartion_integration.ipynb)  
+- [Integration with Moderation API](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_02/6_openai_modeartion_integration.ipynb)
+- [Image Extraction using OpenAI Vision Model](https://github.com/amiteshks/genai_lab_2025_10/blob/main/Session_03_Local_LLMs_Image_FileProcessing/3_image_extraction.ipynb)
+- [DOCX Content Extraction using OpenAI](https://github.com/amiteshks/genai_lab_2025_10/blob/main/Session_03_Local_LLMs_Image_FileProcessing/4_pdf_doc_extraction.ipynb)
+- [PDF Content Extraction using OpenAI](https://github.com/amiteshks/genai_lab_2025_10/blob/main/Session_03_Local_LLMs_Image_FileProcessing/4_pdf_doc_extraction.ipynb)
 - [Running Local LLMs](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_03/5_local_llm.ipynb)  
 - [Comparing 3rd-Party vs Local LLM Performance](https://github.com/amiteshks/2025_09_Gen_AI_Class/blob/main/Session_03/6_local_llm_vs_openai.ipynb)
 
