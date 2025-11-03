@@ -74,8 +74,13 @@ These examples highlight end-to-end implementations using frameworks like **Lang
 
 
 ### 💼 Featured Generative AI Projects
+- [Agentic AI Legal Copilot](https://github.com/amiteshks/ai_legal_copilot)  
+  An intelligent legal assistant powered by Agentic AI, designed to help analyze contracts, summarize legal documents, and assist in drafting responses.
+- [Agentic AI Commercial Real Estate Platform](https://github.com/orgs/antela-ai/repositories) *(Private — send me a request for access)*  
+  A next-generation commercial real estate platform leveraging AI-driven property extraction, semantic search, and conversational listing creation.
 - [Agentic AI: Multi-Agent System using OpenAI and Agents](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/agentic_ai/agentic_AI_multi_agent_system_with_OpenAI.ipynb)  
 - [Generative AI Healthcare Assistant for Doctor Scheduling & Patient Inquiries](https://github.com/amiteshks/machine-learning-and-artificial-intelligence/blob/main/generative_ai/Generative%20AI%20Healthcare%20Assistant%20for%20Doctor%20Scheduling%20%26%20Patient%20Inquiries.ipynb)
+
 
 ---
 
