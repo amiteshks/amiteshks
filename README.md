@@ -1,33 +1,65 @@
 # Amitesh Sinha
 
-### 🚀 Engineering Leader | Generative AI Practitioner | SaaS Innovator
-
-I’m a **hands-on AI engineering leader** passionate about building production-grade **Generative AI applications and platforms**.  
-My work spans developing **AI Copilots across HR Tech, Payroll Tech, FinTech, and Accounting Tech**, leveraging **LLMs (both local and third-party)**, **moderation APIs**, **fine-tuning pipelines**, and **vector-based retrieval with Milvus and FAISS**.  
-I specialize in **end-to-end orchestration** using **LangChain**, **LangGraph**, and **FastAPI**, with **evaluation and observability** powered by **RAGAS** and **LangSmith**.  
-With a strong foundation in **distributed systems**, **SaaS platform engineering**, and **cloud-native architecture (AWS, Docker, Kubernetes)**, I focus on transforming traditional enterprise workflows into **intelligent, context-aware, and data-driven experiences**.  
-I’m driven by bridging the gap between **AI research and real-world deployment**, enabling teams to build **trustworthy, scalable, and measurable GenAI solutions**.
-
+### 🚀 Founder @ Antela.ai  
+Building the AI-native execution layer for Commercial Real Estate  
 
 ---
 
-### 💡 About Me
+## ⚡ What I’m Building
 
-- 🧠 **Builder**: Design and implement **LLM-based systems**, including **RAG pipelines**, **fine-tuning workflows**, and **multi-agent applications**.  
-- 🔍 **Evaluator**: Develop frameworks for **model evaluation, observability, and accuracy benchmarking** using LangSmith and RAGAS.  
-- 👥 **Mentor & Educator**: Lead AI training programs focused on **Generative and Agentic AI**, helping professionals gain hands-on experience with LLMs and modern AI toolchains.  
-- ⚙️ **Technologist**: Combine deep system design experience with emerging AI frameworks to build scalable and intelligent products.
+**Antela.ai** is reimagining how commercial real estate workflows are executed.
+
+Today, brokers operate across fragmented tools for listings, marketing, leads, and deals.  
+We’re building a **unified AI-native platform** that automates execution end-to-end.
+
+→ Extract structured listings from documents  
+→ Generate marketing (brochures, maps, emails) in minutes  
+→ Manage leads and deal workflows in one system  
+→ Capture execution data → learn → improve continuously  
+
+👉 This is not an AI assistant — it is an **AI execution system**
 
 ---
 
-### 🔧 Technologies & Tools
+## 💡 About Me
 
-- **Languages**: Python, Java, TypeScript, Node.js, React, Go  
-- **Generative AI Stack**: LangChain, LangGraph, LangSmith, OpenAI, Llama, Ollama  
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face  
-- **Cloud Platforms**: AWS (Bedrock, Textract, Comprehend, Lex), GCP, Azure  
-- **Databases**: PostgreSQL, DynamoDB, MongoDB, ElasticSearch, **Milvus (Vector DB)**  
-- **DevOps & Infra**: Terraform, Kubernetes, Docker, CI/CD Pipelines
+🧠 **AI Systems Builder**  
+Design and build production-grade AI systems:
+- RAG pipelines and retrieval systems  
+- Multi-agent workflows (LangGraph)  
+- AI copilots embedded into real-world workflows  
+
+🔍 **Evaluation & Observability**  
+Build systems to measure and improve AI performance:
+- Prompt and response quality evaluation  
+- Workflow tracing (LangSmith)  
+- Accuracy benchmarking (RAGAS)  
+
+👥 **Mentor & Educator**  
+Teach Generative AI & Agentic AI, helping engineers transition into AI-first roles with hands-on, real-world projects.
+
+⚙️ **Platform Engineer**  
+20+ years in distributed systems, SaaS platforms, and cloud-native architecture — now focused on building **AI-native systems of record**.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages**  
+Python • Java • TypeScript • Node.js • React • Go  
+
+**Generative AI**  
+LangChain • LangGraph • LangSmith • OpenAI • Llama • Ollama  
+
+**ML Frameworks**  
+PyTorch • TensorFlow • Hugging Face • Scikit-Learn  
+
+**Cloud & Infra**  
+AWS • GCP • Azure • Docker • Kubernetes • Terraform  
+
+**Data Systems**  
+PostgreSQL • DynamoDB • MongoDB • ElasticSearch  
+Milvus (Vector DB) • FAISS  
 
 ---
 
