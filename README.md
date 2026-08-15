@@ -9,17 +9,20 @@ Building Antela.ai — the AI Operating System for Commercial Real Estate Broker
 
 ## ⚡ What I’m Building
 
-**Antela.ai** is reimagining how commercial real estate workflows are executed.
+**Antela.ai** is the **AI Operating System for Commercial Real Estate Brokerages** — helping brokers **win more deals, close listings faster, and spend more time with their clients.**
 
-Today, brokers operate across fragmented tools for listings, marketing, leads, and deals.  
-We’re building a **unified AI-native platform** that automates execution end-to-end.
+Today, CRE teams operate across fragmented applications, manual processes, and disconnected workflows. Antela brings the brokerage lifecycle together in one AI-native platform.
 
-→ Extract structured listings from documents  
-→ Generate marketing (brochures, maps, emails) in minutes  
-→ Manage leads and deal workflows in one system  
-→ Capture execution data → learn → improve continuously  
+→ **Pre-Listing** — Create BOVs, CMAs, and listing presentations faster  
+→ **Listings** — Turn property documents and data into structured, publish-ready listings  
+→ **Marketing** — Generate OMs, brochures, maps, social content, and campaigns in minutes  
+→ **Leads & CRM** — Capture, manage, and follow up with prospects in one connected system  
+→ **Documents** — Manage, share, and execute property documents from one place  
+→ **AI Workflows** — Automate multi-step brokerage workflows across the entire deal lifecycle  
 
-👉 This is not an AI assistant — it is an **AI execution system**
+Antela connects the **data, applications, and workflows** brokers use every day, creating a shared system of record that becomes more intelligent as the brokerage operates.
+
+👉 **Not another point solution. One intelligent operating system for the brokerage.**
 
 ---
 
