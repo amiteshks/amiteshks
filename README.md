@@ -1,7 +1,9 @@
 # Amitesh Sinha
 
-### 🚀 Founder @ Antela.ai  
-Building the AI-native execution layer for Commercial Real Estate  
+### 🚀 Founder & CEO/CTO @ Antela.ai
+#### 2x founder and technology leader with 25+ years building enterprise SaaS, AI, and workflow platforms.
+
+Building Antela.ai — the AI Operating System for Commercial Real Estate Brokerages.
 
 ---
 
